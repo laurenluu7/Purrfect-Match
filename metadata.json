@@ -1,0 +1,6 @@
+{
+  "name": "Meo Hub",
+  "description": "AI-powered cat cafe management & adoption organizer platform for Meow Maison Cat Cafe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
